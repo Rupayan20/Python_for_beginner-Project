@@ -1,8 +1,5 @@
-import time
-import webbrowser
+Make a problem that schedules breaks throughout the day to remind the user to take a break from time to time with the help of Shaurya Sinha sir.
+Thanks to DevTown for this "Python for Beginners" Bootcamp.
 
-breaks=3
-
-for i in range(breaks):
-  time.sleep(15)
-  webbrowser.open('https://www.youtube.com/watch?v=yvqCb_32tdo', new=2)
+[Here I have time break 10 seconds to execute the code. It should be set as per your wish.
+"Song"- when I hear this word, Arijit Singh comes to my mind first. So here is a link to one of his concerts which refreshes the mind.]
