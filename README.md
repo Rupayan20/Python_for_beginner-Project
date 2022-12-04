@@ -1,3 +1,13 @@
+<h1 align ='center'>DevTown</h1>
+
+---
+
+<h1 align ='center'>1st Project done with Devtown</h1>
+
+<br>
+
+---
+## 
 Make a problem that schedules breaks throughout the day to remind the user to take a break from time to time with the help of Shaurya Sinha sir.
 Thanks to DevTown for this "Python for Beginners" Bootcamp.
 
